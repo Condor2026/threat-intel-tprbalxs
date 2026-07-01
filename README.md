@@ -1,9 +1,3 @@
-¡Entendido, **Condor2026**! Prepararé un informe profesional y completo para tu README de GitHub, estructurando todos los IOC's y datos que has proporcionado.
-
-Aquí tienes el informe listo para publicar:
-
----
-
 # 🛡️ Análisis de Amenaza: Infraestructura de Phishing y Malware en Dominios .shop
 
 **Autor:** Condor2026  
